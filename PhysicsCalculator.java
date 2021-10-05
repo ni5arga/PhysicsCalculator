@@ -47,8 +47,8 @@ public class PhysicsCalculator extends AndroidNonvisibleComponent {
     return (FinalVelocity - InitialVelocity) * 1/Time;
   
     }
-  @SimpleFunction(description = "CalculateDeacceleration")
-    public int CalculateDeacceleration (int InitialVelocity, int FinalVelocity, int Time) { 
+  @SimpleFunction(description = "CalculateRetardation")
+    public int CalculateRetardation (int InitialVelocity, int FinalVelocity, int Time) { 
     return (InitialVelocity - FinalVelocity) * 1/Time;
   
     }
