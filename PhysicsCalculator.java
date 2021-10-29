@@ -6,7 +6,7 @@ import com.google.appinventor.components.runtime.*;
 import com.google.appinventor.components.common.*;
 
 @DesignerComponent(version = 1, // Extension Version
-                   description = "PhysicsCalculator extension for MIT AI2 & it's distros by <b> Nisarga Adhikary </b>. ",
+                   description = "PhysicsCalculator extension for MIT AI2 & it's distros by <b> Nisarga Adhikary </b>.So Give Credit if you using this Repo ",
                    category = ComponentCategory.EXTENSION,
                    nonVisible = true,
                    iconName = "images/extension.png")
